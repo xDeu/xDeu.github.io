@@ -7,3 +7,4 @@ This repository is built brick by brick).
 now including: steps for Github.
 another day another dollar
 another code another commit
+new line again
