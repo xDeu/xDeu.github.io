@@ -6,3 +6,21 @@ h1 {
 color: navy;
 margin-left: 20px;
 }
+
+.flex-center {
+  display: flex;
+  justify-content: center; /* horizontal alignment */
+}
+
+.flex-middle {
+  display: flex;
+  align-items: center; /* vertical alignment */
+  height: 300px; /* needs a defined height */
+}
+
+.flex-perfect-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
